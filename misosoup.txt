@@ -4,4 +4,6 @@ wakame
 negi
 daikon
 age
+poteto
+kinoko
 
