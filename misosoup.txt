@@ -2,4 +2,6 @@ misosoup
 tohu
 wakame
 negi
+daikon
+age
 
